@@ -1,4 +1,4 @@
-# Trabalho-IA 
+# Trabalho Inteligência Artificial - UFOP / 2017 
 
 Jogo caça blocos implementado em Prolog 
 
